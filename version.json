@@ -1,0 +1,15 @@
+{
+  "name": "OB量表检索库",
+  "version": "2026.05.13",
+  "updated_at": "2026-05-13",
+  "entry_count": 791,
+  "candidate_count": 109,
+  "recommended_url": "https://gtskevin.github.io/ob-scale-library/",
+  "offline_filename": "OB量表检索库_离线版.html",
+  "notes": [
+    "新增 GitHub Pages 发布准备文件。",
+    "页面内新增“下载离线版”按钮。",
+    "页面内新增“检查更新”按钮，可连接 GitHub Pages 在线版本。",
+    "保留提交新量表和反馈当前条目入口。"
+  ]
+}
