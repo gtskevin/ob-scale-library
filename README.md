@@ -8,7 +8,7 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live%20Demo-blue?logo=github)](https://gtskevin.github.io/ob-scale-library/)
 [![Offline](https://img.shields.io/badge/Offline-Available-brightgreen)](#离线使用)
 [![Scales](https://img.shields.io/badge/Scales-900+-gold)](#量表库概览)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner.svg">
@@ -90,12 +90,22 @@
 
 发现库中缺少某个量表？点击「提交新量表」，填写信息后即可提交，审核通过后会加入下一次更新。
 
+## 数据来源与致谢
+
+本量表库的数据来自多个渠道：
+
+- **[OBHRM百科](https://www.obhrm.net/)**：部分量表信息来源于 OBHRM百科——华人 OBHRM 学者共建共享的公益性知识库。该网站采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议，本项目遵循相同协议。
+- **学术文献**：部分量表信息由编者从已发表的学术论文中独立整理。
+- **社区贡献**：部分量表由用户通过「提交新量表」功能贡献。
+
+感谢 OBHRM百科及其维护者为 OB/HRM 学术社区提供的宝贵资源。
+
 ## FAQ
 
 <details>
 <summary>量表数据从哪里来？</summary>
 
-量表信息来源于已发表的学术文献，经过人工整理和标准化处理。每条量表都标注了原始来源。
+量表信息来源于已发表的学术文献及 [OBHRM百科](https://www.obhrm.net/)，经过整理和标准化处理。每条量表都标注了原始来源。
 </details>
 
 <details>
@@ -116,6 +126,12 @@
 主要面向组织行为学、人力资源管理、管理学领域的研究者——尤其是正在做问卷调研的博士生和青年教师。
 </details>
 
+<details>
+<summary>可以商用吗？</summary>
+
+本项目采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议，不允许商业使用。如需商业用途，请联系数据来源方获取授权。
+</details>
+
 ## Contributing
 
 欢迎贡献！你可以通过以下方式参与：
@@ -123,6 +139,14 @@
 - 📝 **提交新量表**：通过页面内的「提交新量表」功能
 - 🐛 **报告问题**：通过 [Issues](https://github.com/gtskevin/ob-scale-library/issues) 反馈
 - 💡 **功能建议**：在 Discussions 中提出你的想法
+
+## License
+
+本项目采用 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议。
+
+这意味着你可以自由地分享和改编本项目内容，但必须：**署名**来源、**不得商业使用**、并以**相同协议**分享衍生作品。
+
+详细条款见 [LICENSE](LICENSE)。
 
 ## Star History
 
@@ -132,7 +156,7 @@
 
 <div align="center">
 
-**Built for OB/HRM researchers** · MIT License
+**Built for OB/HRM researchers** · CC BY-NC-SA 3.0
 
 [⬆ Back to top](#ob量表检索库)
 
